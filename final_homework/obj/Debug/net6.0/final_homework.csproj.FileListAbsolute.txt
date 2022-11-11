@@ -1,0 +1,15 @@
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\bin\Debug\net6.0\final_homework.exe
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\bin\Debug\net6.0\final_homework.deps.json
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\bin\Debug\net6.0\final_homework.runtimeconfig.json
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\bin\Debug\net6.0\final_homework.dll
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\bin\Debug\net6.0\final_homework.pdb
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\obj\Debug\net6.0\final_homework.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\obj\Debug\net6.0\final_homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\obj\Debug\net6.0\final_homework.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\obj\Debug\net6.0\final_homework.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\obj\Debug\net6.0\final_homework.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\obj\Debug\net6.0\final_homework.dll
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\obj\Debug\net6.0\refint\final_homework.dll
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\obj\Debug\net6.0\final_homework.pdb
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\obj\Debug\net6.0\final_homework.genruntimeconfig.cache
+C:\Users\Егор\Desktop\Учеба\C#_Final\final_homework\obj\Debug\net6.0\ref\final_homework.dll
